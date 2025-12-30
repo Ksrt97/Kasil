@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd kasil-web && npm install && npm run build",
-  "outputDirectory": "kasil-web/dist",
-  "installCommand": "cd kasil-web && npm install",
-  "framework": "vite"
-}
